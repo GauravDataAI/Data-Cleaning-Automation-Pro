@@ -40,6 +40,18 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 ---
 
+## 🔗 View Project
+
+### 📘 Jupyter Notebook
+
+[View Notebook](https://github.com/GauravDataAI/Data-Cleaning-Automation-Pro/blob/main/DataCleaningAutomationPro/Data_Cleaning_Automation_Pro.ipynb)
+
+### 📂 GitHub Repository
+
+[View Repository](https://github.com/GauravDataAI/Data-Cleaning-Automation-Pro)
+
+---
+
 ## 🎓 Project Type
 
 **Data Analytics Internship Project**
@@ -61,3 +73,9 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 **Project Name:** Data Cleaning Automation Pro
 
 **Year:** 2026
+
+---
+
+## ⭐ About This Project
+
+This project represents my first Data Analytics Internship project and helped me gain practical experience in data preprocessing, data quality assessment, visualization, reporting, and dataset management using Python.
