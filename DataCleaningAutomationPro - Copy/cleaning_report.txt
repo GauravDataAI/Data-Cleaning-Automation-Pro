@@ -1,3 +1,0 @@
-DATA CLEANING REPORT
-Rows: 891
-Columns: 12
