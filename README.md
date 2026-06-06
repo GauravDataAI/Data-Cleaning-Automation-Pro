@@ -2,9 +2,7 @@
 
 Data Cleaning Automation Pro is a Python-based Data Analytics project developed during my Data Analytics Internship.
 
-The main objective of this project is to automate the data cleaning process and transform raw datasets into clean, analysis-ready datasets. The project performs data profiling, missing value handling, duplicate detection, outlier analysis, report generation, and data export in multiple formats.
-
-This project helped me gain practical experience in real-world data preprocessing and understand how data is prepared before analysis and machine learning workflows.
+The project automates essential data preprocessing tasks including data profiling, missing value treatment, duplicate detection, outlier analysis, report generation, and multi-format data export. It is designed to transform raw datasets into clean, analysis-ready datasets for analytics and machine learning workflows.
 
 ---
 
@@ -23,36 +21,22 @@ This project helped me gain practical experience in real-world data preprocessin
 
 ## ✨ Key Features
 
-* Load and analyze CSV datasets
-* Perform dataset profiling and inspection
-* Detect and handle missing values
-* Detect and remove duplicate records
-* Standardize dataset structure
-* Detect outliers using the IQR Method
-* Generate visualizations and charts
-* Create PDF and TXT reports
-* Export cleaned datasets in CSV, Excel, and JSON formats
-* Generate automated dataset insights
+* Data Loading and Profiling
+* Missing Value Analysis and Handling
+* Duplicate Record Detection and Removal
+* Data Standardization
+* Outlier Detection using IQR Method
+* Data Quality Assessment
+* Automated Visualization
+* PDF and TXT Report Generation
+* CSV, Excel, and JSON Export
+* Automated Dataset Insights
 
 ---
 
 ## 📈 Project Workflow
 
 Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visualization → Report Generation → Data Export
-
----
-
-## 📝 Learning Outcomes
-
-Through this project, I gained hands-on experience in:
-
-* Data Cleaning
-* Data Preprocessing
-* Exploratory Data Analysis (EDA)
-* Data Quality Assessment
-* Data Visualization
-* Automated Reporting
-* Dataset Export Automation
 
 ---
 
@@ -65,8 +49,13 @@ Through this project, I gained hands-on experience in:
 ## 📌 Project Information
 
 **Prepared By:** Gaurav Kevat
+
 **Course:** B.Tech (Lateral Entry) – CSE (Data Science)
+
 **University:** Jaypee University of Engineering and Technology (JUET), Guna
+
 **Internship Domain:** Data Analytics
+
 **Project Name:** Data Cleaning Automation Pro
+
 **Year:** 2026
