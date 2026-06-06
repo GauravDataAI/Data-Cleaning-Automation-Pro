@@ -1,6 +1,6 @@
 # 📊 Data Cleaning Automation Pro
 
-Data Cleaning Automation Pro is a Python-based Data Analytics project developed during my Data Analytics Internship.
+Data Cleaning Automation Pro is a Python-based Data Analytics project developed as part of my Data Analytics Internship at CodeTech IT Solutions.
 
 The project automates essential data preprocessing tasks including data profiling, missing value treatment, duplicate detection, outlier analysis, report generation, and multi-format data export. It is designed to transform raw datasets into clean, analysis-ready datasets for analytics and machine learning workflows.
 
@@ -53,6 +53,8 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 **Course:** B.Tech (Lateral Entry) – CSE (Data Science)
 
 **University:** Jaypee University of Engineering and Technology (JUET), Guna
+
+**Internship Organization:** CodeTech IT Solutions
 
 **Internship Domain:** Data Analytics
 
