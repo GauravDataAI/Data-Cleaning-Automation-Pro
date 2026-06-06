@@ -6,6 +6,8 @@ The main objective of this project is to automate the data cleaning process and 
 
 This project helped me gain practical experience in real-world data preprocessing and understand how data is prepared before analysis and machine learning workflows.
 
+---
+
 ## 🚀 Technologies Used
 
 * Python
@@ -16,6 +18,8 @@ This project helped me gain practical experience in real-world data preprocessin
 * ReportLab
 * Jupyter Notebook
 * GitHub
+
+---
 
 ## ✨ Key Features
 
@@ -30,9 +34,13 @@ This project helped me gain practical experience in real-world data preprocessin
 * Export cleaned datasets in CSV, Excel, and JSON formats
 * Generate automated dataset insights
 
+---
+
 ## 📈 Project Workflow
 
 Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visualization → Report Generation → Data Export
+
+---
 
 ## 📝 Learning Outcomes
 
@@ -46,20 +54,19 @@ Through this project, I gained hands-on experience in:
 * Automated Reporting
 * Dataset Export Automation
 
+---
+
 ## 🎓 Project Type
 
-Data Analytics Internship Project
+**Data Analytics Internship Project**
+
+---
 
 ## 📌 Project Information
 
-Prepared By: Gaurav Kevat
-
-Course: B.Tech (Lateral Entry) – CSE (Data Science)
-
-University: Jaypee University of Engineering and Technology (JUET), Guna
-
-Internship Domain: Data Analytics
-
-Project Name: Data Cleaning Automation Pro
-
-Year: 2026
+**Prepared By:** Gaurav Kevat
+**Course:** B.Tech (Lateral Entry) – CSE (Data Science)
+**University:** Jaypee University of Engineering and Technology (JUET), Guna
+**Internship Domain:** Data Analytics
+**Project Name:** Data Cleaning Automation Pro
+**Year:** 2026
