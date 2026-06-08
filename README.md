@@ -62,6 +62,8 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 **Prepared By:** Gaurav Kevat
 
+**Intern ID:** CITS34-46
+
 **Course:** B.Tech (Lateral Entry) – CSE (Data Science)
 
 **University:** Jaypee University of Engineering and Technology (JUET), Guna
@@ -70,7 +72,7 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 **Internship Domain:** Data Analytics
 
-**Project Name:** Data Cleaning Automation Pro
+**Project Name:** Sales Trend Visualization
 
 **Year:** 2026
 
