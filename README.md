@@ -72,7 +72,7 @@ Raw Dataset → Data Profiling → Data Cleaning → Outlier Detection → Visua
 
 **Internship Domain:** Data Analytics
 
-**Project Name:** Sales Trend Visualization
+**Project Name:** Data Cleaning Automation
 
 **Year:** 2026
 
